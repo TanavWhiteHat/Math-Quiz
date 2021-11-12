@@ -1,0 +1,74 @@
+body
+{
+	background-image: url("https://ak.picdn.net/shutterstock/videos/1073220752/thumb/3.jpg");
+}
+
+	.login_div1 , .login_div2
+	{
+		background: white;
+		padding: 10px;
+		float: none;
+		border-radius: 15px;
+		width: 30%;
+		height: 150px;
+		background-color: salmon;
+	}
+
+
+#player1_name , #player2_name
+{
+	display: inline-block;
+	margin-left: 3px;
+	color: tomato;
+	font-weight: bold;
+}
+#word
+{
+	width: 60%;
+}
+#word_display
+{
+	letter-spacing: 5px;
+}
+#output
+{
+	background: white;
+	border-radius: 10px;
+	border-top: 10px solid #AA4465;
+	padding: 10px;
+	float: none;
+	text-align: left;
+}
+h1{
+	color: black;
+    font-weight: bold;
+}
+h3{
+	color: teal;
+}
+#username{
+	color: black;
+}
+
+
+
+#number_1,#number_2
+{
+	color: tomato;
+	font-weight: bold;
+}
+h4{
+	color: bisque;
+	width: 100px;
+}
+
+#player_1_name, #player_2_name{
+	display: inline-block;
+	margin-left: 3px;
+
+}
+
+#dosa{
+    border-style: solid;
+    border-color: black;
+}
